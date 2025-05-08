@@ -4,7 +4,7 @@ This is a mini project — a clean, responsive personal profile card displaying 
 
 ## 📸 Screenshot
 
-(![image](https://github.com/user-attachments/assets/c60bc815-b387-4c3d-833e-0efe75abc2d1)
+![image](https://github.com/user-attachments/assets/c60bc815-b387-4c3d-833e-0efe75abc2d1)
 
 ## 🔗 Live Preview
 
